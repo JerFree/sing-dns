@@ -1,4 +1,4 @@
-module github.com/sagernet/sing-dns
+module github.com/JerFree/sing-dns
 
 go 1.18
 
